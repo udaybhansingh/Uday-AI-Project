@@ -55,3 +55,7 @@ CodeCoverage/
 *.VisualState.xml
 TestResult.xml
 nunit-*.xml
+*.vsidx
+*.v2
+/AI-Chat-Backend/.vs/GenAiChatbot/v17
+/AI-Chat-Backend/.vs/GenAiChatbot/v18
